@@ -342,44 +342,56 @@ height: 150px;
 
     .experiencia {
     padding: 0rem 2rem;
+    padding-bottom: 3rem;
     }
 
     .font-experiencia {
       font-family: 'Abril Fatface', sans-serif;
       font-weight: 400;
-      font-size: 2rem;
+      font-size: 3rem;
     }
 
     .card1 {
-    width: 200px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     }
 
     .font-titulo-exp {
       font-family: 'Roboto', sans-serif;
       font-weight: 700;
-      font-size: 1rem;
+      font-size: 1.5rem;
     }
 
     .font-contenido-card {
       font-family: 'Roboto', sans-serif;
       font-weight: 400;
-      font-size: 0.8rem;
+      font-size: 1.2rem;
     }
 
     /* IDEA: Seccion 4 mis trabajos */
 
     .mis-trabajos {
       background-color: #373A3C;
-      padding: 2rem 3rem;
-      padding-left: 6.5rem;
+      padding: 2rem 0rem;
+      padding-left: 14rem;
     }
 
     .titulo-trabajos {
       font-family: 'Abril Fatface', sans-serif;
       font-weight: 400;
       font-size: 2rem;
-      padding-bottom: 1rem;
+    }
+
+    .card2 {
+      width: 200px;
+      height: 180px;
+      border: none;
+    }
+
+    .font-texto-trabajos {
+      font-family: 'Roboto', sans-serif;
+      font-weight: 700;
+      font-size: 1rem;
     }
 
 }

@@ -37,10 +37,6 @@ body * {
 
 /* IDEA: Seccion sobre mi  */
 
-.seccion-informacion {
-
-}
-
 .font-titulo-seccion1 {
   font-family: 'Abril Fatface', sans-serif;
   font-weight: 400;
@@ -157,6 +153,16 @@ height: 150px;
 
   /*Resolucion SM */
 @media (min-width: 576px) {
+
+  .foto-portada {
+    background-image: url("../img/bg-mari.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 90% 90%;
+    height: 600px;
+    width: 100vw;
+    margin-top: 2rem;
+  }
 
 }
 

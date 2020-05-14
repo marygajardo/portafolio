@@ -153,11 +153,7 @@ height: 150px;
 }
 
 
-
-
---------------------------------------------------
-
-/* IDEA: Media Query */
+/* media queries */
 
   /*Resolucion SM */
 @media (min-width: 576px) {
@@ -373,18 +369,19 @@ height: 150px;
     .mis-trabajos {
       background-color: #373A3C;
       padding: 2rem 0rem;
-      padding-left: 14rem;
+      padding-left: 3rem;
     }
 
     .titulo-trabajos {
       font-family: 'Abril Fatface', sans-serif;
       font-weight: 400;
-      font-size: 2rem;
+      font-size: 3rem;
+      margin-left: -3rem;
     }
 
     .card2 {
-      width: 200px;
-      height: 180px;
+      width: 300px;
+      height: 250px;
       border: none;
     }
 
